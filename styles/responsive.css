@@ -272,7 +272,7 @@ input {
 
 
 @media screen and (max-width:576px) {
-
+   
     .skills-container{
         flex-direction: column;
     }
@@ -322,10 +322,10 @@ input {
     }
     nav ul{
        flex-direction: column;
-       align-items: flex-start;
-
-       
+       align-items: flex-start;   
     }
-    
+    .call{
+        margin-top: 10px;
+    }
 
 }
